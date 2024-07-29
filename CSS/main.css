@@ -1,4 +1,14 @@
+.menu{
+    list-style-type: none;
+}
+.header{
+    display: flex;
+    height: 14.42vh;
+    align-items: center;
+}
+.menu_bar{
+    display: flex;
+}
 .logo{
-    width: 80px;
-    height: 60px;
+    width: 6.25VW;
 }
