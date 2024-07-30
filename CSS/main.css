@@ -1,14 +1,23 @@
 .menu{
     list-style-type: none;
 }
+
 .header{
     display: flex;
-    height: 14.42vh;
+    height: 14.4vh;
     align-items: center;
 }
+
 .menu_bar{
     display: flex;
 }
+
 .logo{
-    width: 6.25VW;
+    width: 6.25vw;
 }
+
+.menu a{
+    color: black;
+    text-decoration: none;
+}
+
